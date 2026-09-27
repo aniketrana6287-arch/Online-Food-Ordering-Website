@@ -151,13 +151,8 @@ var swiper = new Swiper('.mySwiper', {
                 updateTotales()
             },300)
 
-        }
-
-
-        
+        }        
     })
-
-
   }
 
   const initAPP = () =>{
@@ -168,5 +163,4 @@ var swiper = new Swiper('.mySwiper', {
          showCards();
     })
   }
-
 initAPP();
